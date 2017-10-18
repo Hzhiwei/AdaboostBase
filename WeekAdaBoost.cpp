@@ -71,8 +71,7 @@ void CreateExample(int count)
 		temp.push_back(y);
 		temp.push_back(z);
 
-//		if (a * x + b * y + c * z + d > 0)
-		if( x * x + y * y + z * z < 2500)
+		if (a * x + b * y + c * z + d > 0)
 		{
 			PosExample.push_back(temp);
 		}
