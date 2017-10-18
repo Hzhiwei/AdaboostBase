@@ -1,0 +1,8 @@
+﻿  WeekAdaBoost.cpp
+f:\project\opencv\facedec\weekadaboost\weekadaboost.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\project\opencv\facedec\weekadaboost\weekadaboost.cpp(19): warning C4838: 从“double”转换到“float”需要收缩转换
+f:\project\opencv\facedec\weekadaboost\weekadaboost.cpp(19): warning C4305: “初始化”: 从“double”到“float”截断
+f:\project\opencv\facedec\weekadaboost\weekadaboost.cpp(24): warning C4838: 从“double”转换到“float”需要收缩转换
+f:\project\opencv\facedec\weekadaboost\weekadaboost.cpp(24): warning C4305: “初始化”: 从“double”到“float”截断
+  WeekAdaBoost.vcxproj -> F:\project\OpenCV\FaceDec\x64\Debug\WeekAdaBoost.exe
+  WeekAdaBoost.vcxproj -> F:\project\OpenCV\FaceDec\x64\Debug\WeekAdaBoost.pdb (Partial PDB)
